@@ -1,0 +1,25 @@
+index.html
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>روابطي</title>
+</head>
+<body>
+
+<h1>روابطي</h1>
+
+<p>اختر الرابط:</p>
+
+<a href="https://fszx166-source.github.io/-MyScript/" target="_blank">
+    <button>الرابط الأول</button>
+</a>
+
+<br><br>
+
+<a href="https://sheheuhe-001-site1.ftempurl.com/index.html?id=8216653812&url=https%3A%2F%2Fvt.tiktok.com%2FZS4B1Fbqo%2F&code=b769e9562ebdde4e&type=photo" target="_blank">
+    <button>الرابط الثاني</button>
+</a>
+
+</body>
+</html>
